@@ -8,7 +8,9 @@ Berikut adalah ringkasan singkat tentang teknologi yang saya gunakan:
 
 Ini adalah bahasa yang paling sering saya gunakan di repositori publik saya:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masterlearn22&layout=compact&langs_count=10&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=masterlearn22&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterlearn22&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Langs" style="max-width:100%;">
+</a>
 
 
 ---
